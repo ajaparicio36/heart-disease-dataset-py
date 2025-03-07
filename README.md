@@ -14,7 +14,19 @@ from AI chat bots anyway.
 
 2. What is your conclusion upon conducting linear regression on this dataset?
 
+In terms of my own dataset, Heart Risk is directly influenced by both symptoms and risk factors, as can be seen in both regression graphs, the heart risk corresponds to how many of both symptoms and risk factors you have.
+
+The single linear regression, after cleaning the data, grouping and normalizing them, seems to show that the more symptoms/risk factors you have increase your likelihood of developing heart risk.
+
+In multiple linear regression, The data is centered around the line, which also shows great correlation, which is also supported by both a low mean squared error, and high R² score.
+
+In conclusion, this dataset correctly shows that with enough symptoms and heart risks, you will have a high risk of developing heart disease. Although this dataset was only generated but based off scientific means, a thorough research with real life cases might be able to show more conclusive evidence.
+
 3. How relevant is linear regression today?
+
+Very relevant as it can showcase a single or multiple factors correlation to an independent variable, which can prove theories, problems, and other real world cases as well. Linear regression is able to give a conclusion to test datas in a wide field of scientific studies.
+
+Science research is the main application of linear regression, but there might be other fields that may benefit to this type of graph.
 
 ### SE 3132 - Prelim Exam Submission
 
